@@ -19,6 +19,12 @@
 *.so
 *.so.*
 *.dylib
+*.mexw64
+*.mexw32
+*.mexa64
+*.mexmaci64
+*.mexglx
+*.mexglx64
 
 # Executables
 *.exe
